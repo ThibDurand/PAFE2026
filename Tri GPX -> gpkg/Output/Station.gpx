@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="47.785004" lon="6.94021">
+    <name>S1</name>
+  </wpt>
+  <wpt lat="47.789677" lon="6.953715">
+    <name>S14</name>
+  </wpt>
+  <wpt lat="47.78717" lon="6.953542">
+    <name>S16</name>
+  </wpt>
+  <wpt lat="47.790852" lon="6.927769">
+    <name>S5</name>
+  </wpt>
+  <wpt lat="47.787903" lon="6.929482">
+    <name>S8</name>
+  </wpt>
+  <wpt lat="47.790592" lon="6.931087">
+    <name>S9</name>
+  </wpt>
+  <wpt lat="47.804508" lon="6.969569">
+    <name>PS30</name>
+  </wpt>
+  <wpt lat="47.801918" lon="6.967822">
+    <name>PS42</name>
+  </wpt>
+  <wpt lat="47.794392" lon="6.963539">
+    <name>PS56</name>
+  </wpt>
+  <wpt lat="47.793159" lon="6.963452">
+    <name>PS57</name>
+  </wpt>
+  <wpt lat="47.796234" lon="6.970898">
+    <name>PS65</name>
+  </wpt>
+  <wpt lat="47.797493" lon="6.964389">
+    <name>PS37</name>
+  </wpt>
+  <wpt lat="47.796825" lon="6.967514">
+    <name>PS46</name>
+  </wpt>
+  <wpt lat="47.793957" lon="6.968009">
+    <name>Station 61</name>
+  </wpt>
+  <wpt lat="47.783127" lon="6.942339">
+    <name>S03</name>
+  </wpt>
+  <wpt lat="47.798103" lon="6.967638">
+    <name>S45</name>
+  </wpt>
+  <wpt lat="47.797909" lon="6.973183">
+    <name>S52</name>
+  </wpt>
+  <wpt lat="47.800602" lon="6.975214">
+    <name>S53</name>
+  </wpt>
+  <wpt lat="47.799416" lon="6.976937">
+    <name>S55</name>
+  </wpt>
+</gpx>

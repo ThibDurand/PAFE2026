@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="47.78466" lon="6.939278">
+    <name>E3</name>
+  </wpt>
+  <wpt lat="47.785816" lon="6.940661">
+    <name>E4</name>
+  </wpt>
+  <wpt lat="47.801777" lon="6.967868">
+    <name>E1</name>
+  </wpt>
+  <wpt lat="47.795013" lon="6.964767">
+    <name>E11</name>
+  </wpt>
+  <wpt lat="47.802925" lon="6.969717">
+    <name>E13</name>
+  </wpt>
+  <wpt lat="47.793377" lon="6.964865">
+    <name>E5</name>
+  </wpt>
+  <wpt lat="47.794376" lon="6.967114">
+    <name>E6</name>
+  </wpt>
+  <wpt lat="47.803719" lon="6.972634">
+    <name>E25</name>
+  </wpt>
+  <wpt lat="47.776676" lon="6.975988">
+    <name>E24</name>
+  </wpt>
+  <wpt lat="47.805481" lon="6.967729">
+    <name>E07</name>
+  </wpt>
+  <wpt lat="47.806244" lon="6.971838">
+    <name>E22</name>
+  </wpt>
+  <wpt lat="47.806786" lon="6.969894">
+    <name>E23</name>
+  </wpt>
+  <wpt lat="47.805866" lon="6.974158">
+    <name>E26</name>
+  </wpt>
+  <wpt lat="47.811928" lon="6.975175">
+    <name>E12</name>
+  </wpt>
+  <wpt lat="47.812725" lon="6.975306">
+    <name>E19</name>
+  </wpt>
+  <wpt lat="47.812729" lon="6.976062">
+    <name>E20</name>
+  </wpt>
+  <wpt lat="47.814384" lon="6.973535">
+    <name>E21</name>
+  </wpt>
+  <wpt lat="47.775833" lon="6.980438">
+    <name>E08</name>
+  </wpt>
+  <wpt lat="47.775795" lon="6.978281">
+    <name>E09</name>
+  </wpt>
+  <wpt lat="47.774536" lon="6.985447">
+    <name>E10</name>
+  </wpt>
+  <wpt lat="47.798885" lon="6.966185">
+    <name>E17</name>
+  </wpt>
+  <wpt lat="47.79847" lon="6.968694">
+    <name>E18_I8</name>
+  </wpt>
+  <wpt lat="47.801041" lon="6.976216">
+    <name>E15</name>
+  </wpt>
+</gpx>

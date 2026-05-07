@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="47.78125" lon="6.938262">
+    <name>P10</name>
+  </wpt>
+  <wpt lat="47.788372" lon="6.953649">
+    <name>P15</name>
+  </wpt>
+  <wpt lat="47.784046" lon="6.941125">
+    <name>P2</name>
+  </wpt>
+  <wpt lat="47.791702" lon="6.928487">
+    <name>P4</name>
+  </wpt>
+  <wpt lat="47.789658" lon="6.927402">
+    <name>P6</name>
+  </wpt>
+  <wpt lat="47.790321" lon="6.92924">
+    <name>P7</name>
+  </wpt>
+  <wpt lat="47.80056" lon="6.967749">
+    <name>P43</name>
+  </wpt>
+  <wpt lat="47.802757" lon="6.970016">
+    <name>P47</name>
+  </wpt>
+  <wpt lat="47.796757" lon="6.969388">
+    <name>P48</name>
+  </wpt>
+  <wpt lat="47.795364" lon="6.967614">
+    <name>P60</name>
+  </wpt>
+  <wpt lat="47.79586" lon="6.969932">
+    <name>P62</name>
+  </wpt>
+  <wpt lat="47.780888" lon="6.93999">
+    <name>P12</name>
+  </wpt>
+  <wpt lat="47.780888" lon="6.93999">
+    <name>P12</name>
+  </wpt>
+  <wpt lat="47.796864" lon="6.965624">
+    <name>P41</name>
+  </wpt>
+  <wpt lat="47.794182" lon="6.969141">
+    <name>P63</name>
+  </wpt>
+  <wpt lat="47.804356" lon="6.972222">
+    <name>P32</name>
+  </wpt>
+  <wpt lat="47.791687" lon="6.968987">
+    <name>P64</name>
+  </wpt>
+  <wpt lat="47.791149" lon="6.97029">
+    <name>P66</name>
+  </wpt>
+  <wpt lat="47.790226" lon="6.970676">
+    <name>P67</name>
+  </wpt>
+  <wpt lat="47.790421" lon="6.965199">
+    <name>P59</name>
+  </wpt>
+  <wpt lat="47.791786" lon="6.96497">
+    <name>P58</name>
+  </wpt>
+  <wpt lat="47.776783" lon="6.975098">
+    <name>P18</name>
+  </wpt>
+  <wpt lat="47.776546" lon="6.973378">
+    <name>P17</name>
+  </wpt>
+  <wpt lat="47.77512" lon="6.975842">
+    <name>P19</name>
+  </wpt>
+  <wpt lat="47.805637" lon="6.969176">
+    <name>P29</name>
+  </wpt>
+  <wpt lat="47.805717" lon="6.973652">
+    <name>P33</name>
+  </wpt>
+  <wpt lat="47.813129" lon="6.974321">
+    <name>P24</name>
+  </wpt>
+  <wpt lat="47.811825" lon="6.974267">
+    <name>P25</name>
+  </wpt>
+  <wpt lat="47.813271" lon="6.976578">
+    <name>P27</name>
+  </wpt>
+  <wpt lat="47.8036" lon="6.975191">
+    <name>P35</name>
+  </wpt>
+  <wpt lat="47.803593" lon="6.976007">
+    <name>P34</name>
+  </wpt>
+  <wpt lat="47.774975" lon="6.978246">
+    <name>P20</name>
+  </wpt>
+  <wpt lat="47.775307" lon="6.980905">
+    <name>P21</name>
+  </wpt>
+  <wpt lat="47.774223" lon="6.981983">
+    <name>P22</name>
+  </wpt>
+  <wpt lat="47.798637" lon="6.96405">
+    <name>P36</name>
+  </wpt>
+  <wpt lat="47.798199" lon="6.965613">
+    <name>P40</name>
+  </wpt>
+  <wpt lat="47.799332" lon="6.967774">
+    <name>P44</name>
+  </wpt>
+  <wpt lat="47.799156" lon="6.971408">
+    <name>P50</name>
+  </wpt>
+  <wpt lat="47.800346" lon="6.973968">
+    <name>P51</name>
+  </wpt>
+  <wpt lat="47.800358" lon="6.977176">
+    <name>P54</name>
+  </wpt>
+  <wpt lat="47.780037" lon="6.937883">
+    <name>P11</name>
+  </wpt>
+  <wpt lat="47.780972" lon="6.941082">
+    <name>P13</name>
+  </wpt>
+</gpx>

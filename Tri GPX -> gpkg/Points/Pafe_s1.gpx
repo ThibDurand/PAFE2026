@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<gpx
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/1"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Iphigénie-Android 11.32.1-0 - 587 https://iphigen.ie/" >
+<metadata>
+    <name><![CDATA[Pafe_s1]]></name>
+<desc><![CDATA[grp_rep:Pafe_s1]]></desc>
+
+    <author><name><![CDATA[export]]></name></author>
+    <link href="urn:ipg_grep:coul=18446462601562485490"></link>    <time>2026-05-04T14:11:52Z</time>
+</metadata>
+  <wpt lat="47.779999" lon="6.938224">
+      <ele> 0.0 </ele>    <name><![CDATA[1223_24_S1]]></name>
+    <cmt><![CDATA[10:22:39]]></cmt>
+    <time><![CDATA[2026-04-24T12:22:39Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777026159.516;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1223_24_S1]]></type>
+  </wpt>
+  <wpt lat="47.781204" lon="6.93821">
+      <ele> 0.0 </ele>    <name><![CDATA[1600_24_S1]]></name>
+    <cmt><![CDATA[13:59:05]]></cmt>
+    <time><![CDATA[2026-04-24T15:59:05Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777039145.889;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1600_24_S1]]></type>
+  </wpt>
+  <wpt lat="47.78125" lon="6.938262">
+      <ele> 0.0 </ele>    <name><![CDATA[P10]]></name>
+    <cmt><![CDATA[14:03:24]]></cmt>
+    <time><![CDATA[2026-04-24T16:03:24Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777039404.168;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[P10]]></type>
+  </wpt>
+  <wpt lat="47.77927" lon="6.936493">
+      <ele> 0.0 </ele>    <name><![CDATA[R11]]></name>
+    <cmt><![CDATA[08:15:43]]></cmt>
+    <time><![CDATA[2026-04-24T10:15:43Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777018543.715;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[R11]]></type>
+  </wpt>
+  <wpt lat="47.790298" lon="6.950606">
+      <ele> 0.0 </ele>    <name><![CDATA[1105_27_S1]]></name>
+    <cmt><![CDATA[09:05:00]]></cmt>
+    <time><![CDATA[2026-04-27T11:05:00Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777280700.164;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1105_27_S1]]></type>
+  </wpt>
+  <wpt lat="47.789413" lon="6.954232">
+      <ele> 0.0 </ele>    <name><![CDATA[1522_27_S1]]></name>
+    <cmt><![CDATA[13:22:22]]></cmt>
+    <time><![CDATA[2026-04-27T15:22:22Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777296142.646;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1522_27_S1]]></type>
+  </wpt>
+  <wpt lat="47.78466" lon="6.939278">
+      <ele> 0.0 </ele>    <name><![CDATA[E3]]></name>
+    <cmt><![CDATA[15:44:32]]></cmt>
+    <time><![CDATA[2026-04-27T17:44:32Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777304672.452;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[E3]]></type>
+  </wpt>
+  <wpt lat="47.785816" lon="6.940661">
+      <ele> 0.0 </ele>    <name><![CDATA[E4]]></name>
+    <cmt><![CDATA[13:52:36]]></cmt>
+    <time><![CDATA[2026-04-27T15:52:36Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777297956.951;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[E4]]></type>
+  </wpt>
+  <wpt lat="47.788372" lon="6.953649">
+      <ele> 0.0 </ele>    <name><![CDATA[P15]]></name>
+    <cmt><![CDATA[10:04:15]]></cmt>
+    <time><![CDATA[2026-04-27T12:04:15Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777284255.134;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[P15]]></type>
+  </wpt>
+  <wpt lat="47.78656" lon="6.954439">
+      <ele> 0.0 </ele>    <name><![CDATA[R2]]></name>
+    <cmt><![CDATA[13:02:28]]></cmt>
+    <time><![CDATA[2026-04-27T15:02:28Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777294948.769;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[R2]]></type>
+  </wpt>
+  <wpt lat="47.787807" lon="6.951944">
+      <ele> 0.0 </ele>    <name><![CDATA[R5]]></name>
+    <cmt><![CDATA[10:56:12]]></cmt>
+    <time><![CDATA[2026-04-27T12:56:12Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777287372.574;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[R5]]></type>
+  </wpt>
+  <wpt lat="47.785004" lon="6.94021">
+      <ele> 0.0 </ele>    <name><![CDATA[S1]]></name>
+    <cmt><![CDATA[14:58:48]]></cmt>
+    <time><![CDATA[2026-04-27T16:58:48Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777301928.356;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[S1]]></type>
+  </wpt>
+  <wpt lat="47.789677" lon="6.953715">
+      <ele> 0.0 </ele>    <name><![CDATA[S14]]></name>
+    <cmt><![CDATA[09:11:56]]></cmt>
+    <time><![CDATA[2026-04-27T11:11:56Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777281116.908;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[S14]]></type>
+  </wpt>
+  <wpt lat="47.78717" lon="6.953542">
+      <ele> 0.0 </ele>    <name><![CDATA[S16]]></name>
+    <cmt><![CDATA[12:01:02]]></cmt>
+    <time><![CDATA[2026-04-27T14:01:02Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777291262.194;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[S16]]></type>
+  </wpt>
+  <wpt lat="47.790058" lon="6.93121">
+      <ele> 0.0 </ele>    <name><![CDATA[1119_28_S1]]></name>
+    <cmt><![CDATA[09:18:15]]></cmt>
+    <time><![CDATA[2026-04-28T11:18:15Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777367895.327;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1119_28_S1]]></type>
+  </wpt>
+  <wpt lat="47.79211" lon="6.928177">
+      <ele> 0.0 </ele>    <name><![CDATA[1540_28_S1]]></name>
+    <cmt><![CDATA[13:40:34]]></cmt>
+    <time><![CDATA[2026-04-28T15:40:34Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777383634.443;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1540_28_S1]]></type>
+  </wpt>
+  <wpt lat="47.791279" lon="6.929719">
+      <ele> 0.0 </ele>    <name><![CDATA[1629_28_S1]]></name>
+    <cmt><![CDATA[14:29:38]]></cmt>
+    <time><![CDATA[2026-04-28T16:29:38Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777386578.918;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1629_28_S1]]></type>
+  </wpt>
+  <wpt lat="47.790794" lon="6.929568">
+      <ele> 0.0 </ele>    <name><![CDATA[1634_28_S1]]></name>
+    <cmt><![CDATA[14:33:56]]></cmt>
+    <time><![CDATA[2026-04-28T16:33:56Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777386836.760;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1634_28_S1]]></type>
+  </wpt>
+  <wpt lat="47.789307" lon="6.927155">
+      <ele> 0.0 </ele>    <name><![CDATA[Eau14]]></name>
+    <cmt><![CDATA[11:15:37]]></cmt>
+    <time><![CDATA[2026-04-28T13:15:37Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777374937.722;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[Eau14]]></type>
+  </wpt>
+  <wpt lat="47.784046" lon="6.941125">
+      <ele> 0.0 </ele>    <name><![CDATA[P2]]></name>
+    <cmt><![CDATA[07:17:02]]></cmt>
+    <time><![CDATA[2026-04-28T09:17:02Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777360622.863;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[P2]]></type>
+  </wpt>
+  <wpt lat="47.791702" lon="6.928487">
+      <ele> 0.0 </ele>    <name><![CDATA[P4]]></name>
+    <cmt><![CDATA[13:49:07]]></cmt>
+    <time><![CDATA[2026-04-28T15:49:07Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777384147.931;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[P4]]></type>
+  </wpt>
+  <wpt lat="47.789658" lon="6.927402">
+      <ele> 0.0 </ele>    <name><![CDATA[P6]]></name>
+    <cmt><![CDATA[11:51:02]]></cmt>
+    <time><![CDATA[2026-04-28T13:51:02Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777377062.307;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[P6]]></type>
+  </wpt>
+  <wpt lat="47.790852" lon="6.927769">
+      <ele> 0.0 </ele>    <name><![CDATA[S5]]></name>
+    <cmt><![CDATA[12:43:27]]></cmt>
+    <time><![CDATA[2026-04-28T14:43:27Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777380207.437;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[S5]]></type>
+  </wpt>
+  <wpt lat="47.787903" lon="6.929482">
+      <ele> 0.0 </ele>    <name><![CDATA[S8]]></name>
+    <cmt><![CDATA[09:34:00]]></cmt>
+    <time><![CDATA[2026-04-28T11:34:00Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777368840.868;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[S8]]></type>
+  </wpt>
+  <wpt lat="47.790592" lon="6.931087">
+      <ele> 0.0 </ele>    <name><![CDATA[S9]]></name>
+    <cmt><![CDATA[14:42:49]]></cmt>
+    <time><![CDATA[2026-04-28T16:42:49Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777387369.928;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[S9]]></type>
+  </wpt>
+  <wpt lat="47.792957" lon="6.929155">
+      <ele> 0.0 </ele>    <name><![CDATA[1042_29_S1]]></name>
+    <cmt><![CDATA[08:41:46]]></cmt>
+    <time><![CDATA[2026-04-29T10:41:46Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777452106.962;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1042_29_S1]]></type>
+  </wpt>
+  <wpt lat="47.792122" lon="6.929755">
+      <ele> 0.0 </ele>    <name><![CDATA[1047_29_S1]]></name>
+    <cmt><![CDATA[08:47:14]]></cmt>
+    <time><![CDATA[2026-04-29T10:47:14Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777452434.586;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1047_29_S1]]></type>
+  </wpt>
+  <wpt lat="47.790272" lon="6.926169">
+      <ele> 0.0 </ele>    <name><![CDATA[1310_29_S1]]></name>
+    <cmt><![CDATA[11:09:18]]></cmt>
+    <time><![CDATA[2026-04-29T13:09:18Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777460958.943;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[1310_29_S1]]></type>
+  </wpt>
+  <wpt lat="47.790321" lon="6.92924">
+      <ele> 0.0 </ele>    <name><![CDATA[P7]]></name>
+    <cmt><![CDATA[09:38:08]]></cmt>
+    <time><![CDATA[2026-04-29T11:38:08Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777455488.713;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[P7]]></type>
+  </wpt>
+  <wpt lat="47.791245" lon="6.930143">
+      <ele> 0.0 </ele>    <name><![CDATA[R25]]></name>
+    <cmt><![CDATA[10:16:29]]></cmt>
+    <time><![CDATA[2026-04-29T12:16:29Z]]></time>
+    <desc><![CDATA[]]></desc>
+    <src>Iphigénie</src>
+    <link href="urn:ipg_rep:dt=1777457789.928;coul=-12199637"/>
+    <sym>com.iphigenie.Rep_manuel</sym>
+    <type><![CDATA[R25]]></type>
+  </wpt>
+</gpx>

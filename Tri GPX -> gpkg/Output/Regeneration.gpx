@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="47.77927" lon="6.936493">
+    <name>R11</name>
+  </wpt>
+  <wpt lat="47.78656" lon="6.954439">
+    <name>R2</name>
+  </wpt>
+  <wpt lat="47.787807" lon="6.951944">
+    <name>R5</name>
+  </wpt>
+  <wpt lat="47.791245" lon="6.930143">
+    <name>R25</name>
+  </wpt>
+  <wpt lat="47.801434" lon="6.970272">
+    <name>R1</name>
+  </wpt>
+  <wpt lat="47.800087" lon="6.966762">
+    <name>R16</name>
+  </wpt>
+  <wpt lat="47.802082" lon="6.97004">
+    <name>R17</name>
+  </wpt>
+  <wpt lat="47.793186" lon="6.96569">
+    <name>R26</name>
+  </wpt>
+  <wpt lat="47.795303" lon="6.966878">
+    <name>R6</name>
+  </wpt>
+  <wpt lat="47.793655" lon="6.969603">
+    <name>R28</name>
+  </wpt>
+  <wpt lat="47.795296" lon="6.963062">
+    <name>R29</name>
+  </wpt>
+  <wpt lat="47.796169" lon="6.963621">
+    <name>R3</name>
+  </wpt>
+  <wpt lat="47.805195" lon="6.969868">
+    <name>R13</name>
+  </wpt>
+  <wpt lat="47.80439" lon="6.97308">
+    <name>R07</name>
+  </wpt>
+  <wpt lat="47.804455" lon="6.973162">
+    <name>R19</name>
+  </wpt>
+  <wpt lat="47.803867" lon="6.973483">
+    <name>R18</name>
+  </wpt>
+  <wpt lat="47.80463" lon="6.97461">
+    <name>R15</name>
+  </wpt>
+  <wpt lat="47.790184" lon="6.96733">
+    <name>R9</name>
+  </wpt>
+  <wpt lat="47.789925" lon="6.965616">
+    <name>R27</name>
+  </wpt>
+  <wpt lat="47.775494" lon="6.973314">
+    <name>R24</name>
+  </wpt>
+  <wpt lat="47.775234" lon="6.970971">
+    <name>R23</name>
+  </wpt>
+  <wpt lat="47.805698" lon="6.968251">
+    <name>R12</name>
+  </wpt>
+  <wpt lat="47.80513" lon="6.969926">
+    <name>R13</name>
+  </wpt>
+  <wpt lat="47.805531" lon="6.97233">
+    <name>R14</name>
+  </wpt>
+  <wpt lat="47.80555" lon="6.97235">
+    <name>R14_bis</name>
+  </wpt>
+  <wpt lat="47.8055" lon="6.971785">
+    <name>R31</name>
+  </wpt>
+  <wpt lat="47.775528" lon="6.977516">
+    <name>R20</name>
+  </wpt>
+  <wpt lat="47.775391" lon="6.977598">
+    <name>R22</name>
+  </wpt>
+  <wpt lat="47.799442" lon="6.969859">
+    <name>R21</name>
+  </wpt>
+  <wpt lat="47.802143" lon="6.972309">
+    <name>R8</name>
+  </wpt>
+  <wpt lat="47.79797" lon="6.971289">
+    <name>R_10</name>
+  </wpt>
+</gpx>

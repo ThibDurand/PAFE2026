@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="47.795616" lon="6.967065">
+    <name>ED7</name>
+  </wpt>
+  <wpt lat="47.801632" lon="6.970415">
+    <name>I4</name>
+  </wpt>
+  <wpt lat="47.805222" lon="6.971995">
+    <name>I05</name>
+  </wpt>
+  <wpt lat="47.806248" lon="6.97166">
+    <name>I06</name>
+  </wpt>
+  <wpt lat="47.798786" lon="6.966413">
+    <name>I2</name>
+  </wpt>
+  <wpt lat="47.79866" lon="6.966948">
+    <name>I9</name>
+  </wpt>
+  <wpt lat="47.798344" lon="6.972221">
+    <name>I11</name>
+  </wpt>
+</gpx>

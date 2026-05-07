@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="47.779999" lon="6.938224">
+    <name>1223_24_S1</name>
+  </wpt>
+  <wpt lat="47.781204" lon="6.93821">
+    <name>1600_24_S1</name>
+  </wpt>
+  <wpt lat="47.790298" lon="6.950606">
+    <name>1105_27_S1</name>
+  </wpt>
+  <wpt lat="47.789413" lon="6.954232">
+    <name>1522_27_S1</name>
+  </wpt>
+  <wpt lat="47.790058" lon="6.93121">
+    <name>1119_28_S1</name>
+  </wpt>
+  <wpt lat="47.79211" lon="6.928177">
+    <name>1540_28_S1</name>
+  </wpt>
+  <wpt lat="47.791279" lon="6.929719">
+    <name>1629_28_S1</name>
+  </wpt>
+  <wpt lat="47.790794" lon="6.929568">
+    <name>1634_28_S1</name>
+  </wpt>
+  <wpt lat="47.792957" lon="6.929155">
+    <name>1042_29_S1</name>
+  </wpt>
+  <wpt lat="47.792122" lon="6.929755">
+    <name>1047_29_S1</name>
+  </wpt>
+  <wpt lat="47.790272" lon="6.926169">
+    <name>1310_29_S1</name>
+  </wpt>
+  <wpt lat="47.796013" lon="6.968949">
+    <name>1104_28_S21</name>
+  </wpt>
+  <wpt lat="47.795162" lon="6.968253">
+    <name>1136_27_S21</name>
+  </wpt>
+  <wpt lat="47.803452" lon="6.969332">
+    <name>1240_27_S21</name>
+  </wpt>
+  <wpt lat="47.802799" lon="6.96967">
+    <name>1251_27_S21</name>
+  </wpt>
+  <wpt lat="47.793365" lon="6.965882">
+    <name>1419_28_S21</name>
+  </wpt>
+  <wpt lat="47.793129" lon="6.964168">
+    <name>1515_28_S21</name>
+  </wpt>
+  <wpt lat="47.801334" lon="6.970531">
+    <name>1546_27_s21</name>
+  </wpt>
+  <wpt lat="47.801205" lon="6.970502">
+    <name>1550_27_S21</name>
+  </wpt>
+  <wpt lat="47.800781" lon="6.965153">
+    <name>1655_27_S21</name>
+  </wpt>
+  <wpt lat="47.80125" lon="6.965944">
+    <name>1750_27_S21</name>
+  </wpt>
+  <wpt lat="47.801537" lon="6.966298">
+    <name>1755_27_S21</name>
+  </wpt>
+  <wpt lat="47.779949" lon="6.938323">
+    <name>1558_24_21</name>
+  </wpt>
+  <wpt lat="47.779949" lon="6.938323">
+    <name>1558_24_21</name>
+  </wpt>
+  <wpt lat="47.794434" lon="6.969076">
+    <name>1130_29_S21</name>
+  </wpt>
+  <wpt lat="47.796799" lon="6.965363">
+    <name>1332_29_S21</name>
+  </wpt>
+  <wpt lat="47.796638" lon="6.962863">
+    <name>1545_29_S21</name>
+  </wpt>
+  <wpt lat="47.781307" lon="6.938551">
+    <name>1600_24_S22</name>
+  </wpt>
+  <wpt lat="47.792652" lon="6.971193">
+    <name>0941_28_S22</name>
+  </wpt>
+  <wpt lat="47.806232" lon="6.968596">
+    <name>1215_27_S25</name>
+  </wpt>
+  <wpt lat="47.806889" lon="6.969625">
+    <name>1221_27_S25</name>
+  </wpt>
+  <wpt lat="47.805557" lon="6.970846">
+    <name>1659_27_S25</name>
+  </wpt>
+  <wpt lat="47.804497" lon="6.968537">
+    <name>1803_27_S25</name>
+  </wpt>
+  <wpt lat="47.813087" lon="6.974892">
+    <name>0959_28_S25</name>
+  </wpt>
+  <wpt lat="47.812603" lon="6.975052">
+    <name>1018_28_S25</name>
+  </wpt>
+  <wpt lat="47.813854" lon="6.977896">
+    <name>1500_28_S25</name>
+  </wpt>
+  <wpt lat="47.804653" lon="6.97425">
+    <name>1823_28_S25</name>
+  </wpt>
+  <wpt lat="47.774654" lon="6.984601">
+    <name>1053_29_S25_Dédoublement</name>
+  </wpt>
+  <wpt lat="47.774769" lon="6.984518">
+    <name>1138_29_S25_dedoublement desserte</name>
+  </wpt>
+  <wpt lat="47.774643" lon="6.981722">
+    <name>1215_29_S25</name>
+  </wpt>
+  <wpt lat="47.775871" lon="6.980443">
+    <name>1411_29_S25_Collecteur</name>
+  </wpt>
+  <wpt lat="47.775852" lon="6.980498">
+    <name>1413_29_S25_Changement_nature_route</name>
+  </wpt>
+  <wpt lat="47.798267" lon="6.972259">
+    <name>1043_28_S27</name>
+  </wpt>
+  <wpt lat="47.799263" lon="6.970469">
+    <name>1555_28_S27</name>
+  </wpt>
+  <wpt lat="47.798512" lon="6.968612">
+    <name>1732_28_S27</name>
+  </wpt>
+  <wpt lat="47.79995" lon="6.977008">
+    <name>1229_27_S27</name>
+  </wpt>
+  <wpt lat="47.779938" lon="6.938099">
+    <name>1202_24_S27</name>
+  </wpt>
+</gpx>
